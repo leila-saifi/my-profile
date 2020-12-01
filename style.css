@@ -1,0 +1,60 @@
+body{
+	font-family:'Roboto', sans-serif;
+	background-color: #F5F4F6;
+}
+h1,{
+	color:#81717A
+	size: : 100px;
+}
+ul{
+	color:#81717A;
+	list-style: none;   
+	padding-left: 0; 
+}
+
+p{
+	color:#81717A
+}
+a{
+	text-decoration:none;
+	color:#81717A;
+}
+a:hover {
+	color:#DAF0EE;
+}
+
+i {
+	font-size: 50px;
+}
+.icons-inline li {
+	display: inline;
+}
+
+.white-card {
+	background-color: #FFFF;
+	padding:10px;
+	margin: 10px 20px;
+	text-align: center;
+	box-shadow: 3px 5px 10px #68534D;
+	font-color:#81717A;
+}
+
+.container{
+	width: 700px;
+	margin: 20px auto;
+}
+#Profile-pic{
+	border-radius: 100px;
+}
+
+#Kbs-logo{
+	border-radius: 100px;
+}
+#unaav{
+	border-radius : 70px;
+}
+
+#hsb{
+	border-radius: 100px;
+}
+
